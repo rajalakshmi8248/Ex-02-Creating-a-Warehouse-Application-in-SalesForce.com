@@ -1,7 +1,7 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
 ## AIM:
-To create a warehouse application in salesforce.com
+To create a warehouse application in salesforce.com 
 
 ## Procedure
 
